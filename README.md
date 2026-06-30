@@ -1,61 +1,135 @@
+<div align="center">
+
+<!-- Hero Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=Ghulam%20Hussain%20Qureshi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Laravel+%26+Full-Stack+Web+Developer;Backend+Engineer;Building+Secure+%26+Scalable+Applications;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+
+<br><br>
+
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Laravel-Developer-FF2D20?style=for-the-badge&logo=laravel"/>
+<img src="https://img.shields.io/badge/Backend-Engineer-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/.NET-Learning-512BD4?style=for-the-badge&logo=.net"/>
+
+<br><br>
+
+<!-- Coding Animation -->
+<img width="480" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+
+<br><br>
+
+<h3>
+💙 Building secure, scalable & high-performance web applications.
+</h3>
+
+<p>
+Passionate about <b>Laravel</b>, <b>PHP</b>, <b>React</b>, <b>MySQL</b> and modern backend architecture.
+</p>
+
+</div>
+
+---
 
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#00D9FF;">Ghulam Hussain Qureshi</span>
+# 🚀 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=750&lines=Laravel+%26+Full-Stack+Web+Developer;Building+Secure+%26+Scalable+Applications;Backend+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</div>
+<table>
+<tr>
 
-<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<td width="55%" valign="top">
+
+
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
+
+<img src="https://img.shields.io/badge/Status-Learning%20Everyday-2196F3?style=for-the-badge"/>
+
+<br><br>
+
+
+👤 Name:
+   Ghulam Hussain Qureshi
+
+💼 Role:
+   Laravel & Full Stack Developer
+
+🚀 Passion:
+   Building Secure &
+   Scalable Applications
+
+📚 Learning:
+   .NET Web API
+   C#
+   Enterprise Architecture
+
+🤝 Open Source:
+   Laravel Projects
+
+💬 Ask Me About:
+   Laravel
+   PHP
+   MySQL
+   Backend Development
+
+⚡ Fun Fact:
+   Coffee ☕
+      ↓
+   Brain 🧠
+      ↓
+   Clean Code 💻
+
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theghq&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
+
+
+
+<div align="center">
+
+### ⚡ Current Journey
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,react,tailwind,bootstrap,dotnet,cs,git,github"/>
 
 </div>
 
 
 
-## 🚀 About Me
+<div align="center">
 
-<table>
+### 🎯 My Development Philosophy
 
-<tr>
-<td width="50%">
+> **"Every line of code should solve a problem, every project should teach something new, and every challenge is an opportunity to grow."**
 
-### 👨‍💻 Developer
+</div>
 
-- 🔭 **Recently Built**
-  - 🧪 ElectroCert — Lab Automation System
-  - 🌌 StarBounds — Astronomy Website
 
-- 🌱 **Currently Learning**
-  - .NET Web API
-  - C#
-  - Enterprise Architecture
 
-- 🤝 **Looking to Collaborate**
-  - Laravel Open Source Projects
-  - Full-Stack Applications
+<div align="center">
 
-</td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-<td width="50%">
+</div>
 
-### 💬 Information
-
-- 💡 Ask me about Laravel, PHP, MySQL & Backend Development
-
-- 📧 Email
-
-  **ghulamhussainqurshi959@gmail.com**
-
-- ⚡ Fun Fact
-
-  > I love turning ☕ coffee into clean, scalable backend code.
-
-</td>
-
-</tr>
-
-</table>
 
 
 
@@ -84,7 +158,7 @@
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canv+a-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=theghq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=theghq&theme=tokyonight&hide_border=false)<br/>
