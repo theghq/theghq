@@ -1,182 +1,203 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=Ghulam%20Hussain%20Qureshi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- ========================================= -->
+<!--               HERO SECTION                -->
+<!-- ========================================= -->
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Laravel+%26+Full-Stack+Web+Developer;Backend+Engineer;Building+Secure+%26+Scalable+Applications;Open+Source+Contributor;Always+Learning+New+Technologies"/>
-
-<br><br>
-
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Laravel-Developer-FF2D20?style=for-the-badge&logo=laravel"/>
-<img src="https://img.shields.io/badge/Backend-Engineer-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/.NET-Learning-512BD4?style=for-the-badge&logo=.net"/>
-
-<br><br>
-
-<!-- Coding Animation -->
-<img width="480" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
-
-<br><br>
-
-<h3>
-💙 Building secure, scalable & high-performance web applications.
-</h3>
-
-<p>
-Passionate about <b>Laravel</b>, <b>PHP</b>, <b>React</b>, <b>MySQL</b> and modern backend architecture.
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 About Me
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
-
-</div>
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-
-<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
-
-<img src="https://img.shields.io/badge/Status-Learning%20Everyday-2196F3?style=for-the-badge"/>
-
-<br><br>
-
-
-👤 Name:
-   Ghulam Hussain Qureshi
-
-💼 Role:
-   Laravel & Full Stack Developer
-
-🚀 Passion:
-   Building Secure &
-   Scalable Applications
-
-📚 Learning:
-   .NET Web API
-   C#
-   Enterprise Architecture
-
-🤝 Open Source:
-   Laravel Projects
-
-💬 Ask Me About:
-   Laravel
-   PHP
-   MySQL
-   Backend Development
-
-⚡ Fun Fact:
-   Coffee ☕
-      ↓
-   Brain 🧠
-      ↓
-   Clean Code 💻
-
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=Ghulam%20Hussain%20Qureshi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20%7C%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theghq&theme=tokyonight"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=26&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Laravel+%7C+Full-Stack+Web+Developer;Backend+Engineer+%E2%80%A2+REST+API+Specialist;Building+Secure+%26+Scalable+Applications;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-Developer-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-Learning-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### Building Secure • Scalable • Modern Web Applications 🚀
+
+Passionate about Laravel, PHP, React, MySQL and clean backend architecture.
+
+<br>
+
+<!-- Socials (single, de-duplicated set) -->
+<a href="https://github.com/theghq"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>&nbsp;
+<a href="mailto:ghulamhussainqurshi959@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>&nbsp;
+<a href="https://stackoverflow.com/users/20022890"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/></a>&nbsp;
+<a href="https://facebook.com/ghq18"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/></a>&nbsp;
+<a href="https://instagram.com/gh__qureshi"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=theghq&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/theghq?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/stars/theghq?style=for-the-badge&logo=github&label=Stars"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+Name:          Ghulam Hussain Qureshi
+Role:          Laravel & Full-Stack Web Developer
+
+Bio:
+  Passionate about building secure,
+  scalable and elegant web applications.
+
+Specialization:
+  - Laravel
+  - PHP
+  - REST APIs
+  - MySQL
+  - React
+  - Clean Architecture
+
+Currently Learning:
+  - .NET Web API
+  - C#
+  - Enterprise Architecture
+
+Looking To Collaborate:
+  - Open Source Laravel Projects
+  - Backend Development
+  - Full-Stack Applications
+
+Ask Me About:
+  - Laravel
+  - PHP
+  - MySQL
+  - Backend Engineering
+
+Current Goal:
+  Become an Enterprise Software Engineer
+
+Fun Fact:
+  ☕ → Clean Code → Better Software 🚀
+```
 
 </td>
+<td width="45%" valign="top">
 
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=theghq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"/>
+
+<br><br>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=theghq&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theghq&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
 </tr>
 </table>
 
+---
 
-
-<div align="center">
-
-### ⚡ Current Journey
-
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,react,tailwind,bootstrap,dotnet,cs,git,github"/>
-
-</div>
-
-
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎯 My Development Philosophy
+**Languages**
 
-> **"Every line of code should solve a problem, every project should teach something new, and every challenge is an opportunity to grow."**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+**Editors & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-</div>
-
-
-
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=theghq&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/theghq?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/theghq?style=for-the-badge&logo=github"/>
-
-</div>
-
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ghq18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gh__qureshi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20022890) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghulamhussainqurshi959@gmail.com) 
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canv+a-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=theghq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=theghq&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=theghq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theghq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=theghq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=theghq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=theghq&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=theghq&theme=tokyonight&no-frame=true&row=1&margin-w=12"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theghq/theghq/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theghq/theghq/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/theghq/theghq/output/github-snake.svg" />
+</picture>
+
+<sub>⚠️ This only renders after a one-time GitHub Actions setup — see the note below.</sub>
+
+</div>
+
+---
+
+## 💭 Developer Mindset
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=20&pause=1400&color=00E5FF&center=true&width=900&lines=Code+with+Purpose.;Build+with+Passion.;Learn+Every+Day.;Solve+Real+Problems.;Always+Improving."/>
+
+> **"Code is more than syntax — it's the art of solving problems with simplicity, scalability, and purpose."**
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+<div align="center">
+  <sub>Thanks for visiting my profile! Feel free to connect or check out my repositories. ⭐</sub>
+</div>
