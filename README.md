@@ -153,9 +153,9 @@ Passionate about <b>Laravel</b>, <b>PHP</b>, <b>React</b>, <b>MySQL</b> and mode
 <!-- Snake Game Repo View -->
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/theghq/theghq/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 
 # 💻 Tech Stack:
