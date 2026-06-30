@@ -14,8 +14,7 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 
 ## 🔗 I am a Content Creator. 😊😊
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 
 
 ## 🌐 Socials:
@@ -27,6 +26,13 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 ![](https://github-readme-stats.shion.dev/api?username=theghq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=theghq&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=theghq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theghq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
