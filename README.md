@@ -1,18 +1,73 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+<div align="center">
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+# 👋 Hi, I'm <span style="color:#00D9FF;">Ghulam Hussain Qureshi</span>
 
-## 🔗 I am a Content Creator. 😊😊
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=750&lines=Laravel+%26+Full-Stack+Web+Developer;Building+Secure+%26+Scalable+Applications;Backend+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</div>
+
+
+
+## 🚀 About Me
+
+<table>
+
+<tr>
+<td width="50%">
+
+### 👨‍💻 Developer
+
+- 🔭 **Recently Built**
+  - 🧪 ElectroCert — Lab Automation System
+  - 🌌 StarBounds — Astronomy Website
+
+- 🌱 **Currently Learning**
+  - .NET Web API
+  - C#
+  - Enterprise Architecture
+
+- 🤝 **Looking to Collaborate**
+  - Laravel Open Source Projects
+  - Full-Stack Applications
+
+</td>
+
+<td width="50%">
+
+### 💬 Information
+
+- 💡 Ask me about Laravel, PHP, MySQL & Backend Development
+
+- 📧 Email
+
+  **ghulamhussainqurshi959@gmail.com**
+
+- ⚡ Fun Fact
+
+  > I love turning ☕ coffee into clean, scalable backend code.
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=theghq&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/theghq?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/theghq?style=for-the-badge&logo=github"/>
+
+</div>
 
 
 
