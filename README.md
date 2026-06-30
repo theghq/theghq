@@ -92,7 +92,7 @@ Fun Fact:
 </td>
 <td width="45%" valign="top">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=theghq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"/>
+<img width="100%" src="https://raw.githubusercontent.com/theghq/theghq/main/metrics.stats.svg"/>
 
 <br><br>
 
@@ -100,7 +100,9 @@ Fun Fact:
 
 <br><br>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theghq&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://raw.githubusercontent.com/theghq/theghq/main/metrics.languages.svg"/>
+
+<sub>⚠️ The two cards above need a one-time GitHub Actions setup — see the note below the file list.</sub>
 
 </td>
 </tr>
@@ -162,7 +164,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theghq&theme=tokyonight&no-frame=true&row=1&margin-w=12"/>
+<img src="https://github-trophies.vercel.app/?username=theghq&theme=tokyonight&no-frame=true&row=1&margin-w=12"/>
 
 </div>
 
