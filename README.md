@@ -178,7 +178,7 @@ Fun Fact:
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/theghq/theghq/output/github-snake.svg" />
 </picture>
 
-<sub>⚠️ This only renders after a one-time GitHub Actions setup — see the note below.</sub>
+
 
 </div>
 
