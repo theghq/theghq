@@ -93,7 +93,11 @@ Fun Fact:
 </td>
 <td width="45%" valign="top">
 
-<img width="100%" src="https://raw.githubusercontent.com/theghq/theghq/main/metrics.stats.svg"/>
+ <img
+    width="100%"
+    src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
+    alt="Coding Animation"
+  />
 
 <br><br>
 
@@ -101,9 +105,9 @@ Fun Fact:
 
 <br><br>
 
-<img width="100%" src="https://raw.githubusercontent.com/theghq/theghq/main/metrics.languages.svg"/>
+<img width="100%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<sub>⚠️ The two cards above need a one-time GitHub Actions setup — see the note below the file list.</sub>
+
 
 </td>
 </tr>
