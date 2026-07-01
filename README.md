@@ -31,7 +31,8 @@ Passionate about Laravel, PHP, React, MySQL and clean backend architecture.
 <a href="https://github.com/theghq"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>&nbsp;
 <a href="mailto:ghulamhussainqurshi959@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>&nbsp;
 <a href="https://stackoverflow.com/users/20022890"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/></a>&nbsp;
-<a href="https://facebook.com/ghq18"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/></a>&nbsp;
+<a href="https://loud-bamboo-37d.notion.site/Ghulam-Hussain-Qureshi-Full-Stack-Developer-2523f366446a800da61cd4230eea3ddf?source=copy_link">
+<img src="https://skillicons.dev/icons?i=notion" alt="Notion"/></a>&nbsp;
 <a href="https://instagram.com/gh__qureshi"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
 
 <br><br>
